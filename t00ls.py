@@ -39,7 +39,6 @@ class sendmessage():
         requests.get(barkpushurl+self.title+"/"+self.message+"/")
 
 
-
 class t00lsuser():
     def __init__(self):
         self.login_data = {
