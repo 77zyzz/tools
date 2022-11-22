@@ -1,6 +1,5 @@
 import requests
 import json
-from urllib import parse
 
 #Tools用户名
 username="XX"
